@@ -51,7 +51,9 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![Screenshot 2024-02-25 221823](https://github.com/Aprajith-R/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/161153978/15f5dd05-f946-46d2-b6c3-903b0397365c)
+![Screenshot 2024-02-25 221638](https://github.com/Aprajith-R/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/161153978/df6780ec-09f1-4b99-b0b9-db593943c908)
+
 
 
 ## Result:
